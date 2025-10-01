@@ -22,4 +22,4 @@ print("Ets major d'edat")
 
 print("Programa Finalitzat")
 
-#comentari de prova
+#comprovació final ta02
