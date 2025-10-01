@@ -1,5 +1,5 @@
 """
-OOOOOOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOOOOOOOOOO00
 Javier Amaya Boira
 
 12/09/2023
@@ -21,3 +21,5 @@ print("Ets major d'edat")
 
 
 print("Programa Finalitzat")
+
+#comentari de prova
